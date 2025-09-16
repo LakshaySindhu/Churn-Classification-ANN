@@ -15,9 +15,6 @@ ANN/
 ├── predictions.ipynb           # Prediction notebook
 ├── requirements.txt            # Python dependencies
 ├── scaler.pkl                  # Saved scaler for feature normalization
-├── TensorFlow_M1_Issue_Fix_Formatted.pdf # TensorFlow M1 Mac issue fix
-├── Tensorflow.ipynb            # TensorFlow workflow notebook
-└── logs/                       # TensorBoard logs
 ```
 
 ## Steps in ANN Implementation
