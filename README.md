@@ -39,12 +39,7 @@ ANN/
 
 2. **Run the main script:**
    ```
-   python app.py
-   ```
-
-3. **View TensorBoard logs:**
-   ```
-   tensorboard --logdir=logs/
+   streamlit run app.py
    ```
 
 ## Notebooks
